@@ -1,0 +1,58 @@
+cake-maker is a program for producing a set of 'cake' maps for 
+an open streetmap mapping party.
+
+To use cake-maker you need
+
+
+1) Mapnik installed
+2) Cacadnik installed
+3) A postgis database from osm2pgsql that contains the OSM data you
+   wish to include on your diagrams.
+4) A .osm file that contains the 'cake' segments for your mapping party.
+   See example_cake.osm.
+
+
+Instructions
+------------------
+
+
+Step 1
+---------
+
+Using JOSM (or another OSM editor) create a .osm file containing closed
+area ways that make up your 'cake' segments.  Each cake
+should be tagged as 'landuse=cake'.  Next inside each of the areas
+you can create a single node that will have a 'name' key that will 
+be a label for the cake segment.
+
+Step 2
+---------
+Edit cascadenik-stype/style.mml.
+
+Set  host,port,user,password,dbname to point at your postgis databsae.
+
+Set 'file' in the layer 'cake area' to point at your cake file.
+
+
+Step 3
+------------
+Run cascadnik-compile on style.mml to generate osm.xml
+
+
+Step 4
+---------
+Run 'cake-maker.py cakesegments.osm' to generate the cake files.
+
+This should generate a set of PNG and SVG files containing the maps
+
+
+The maps styles in cascadenik-style are based on samples distributed
+with cascadenik, copyright Michal Migurski.  See the license file in that
+directory.
+
+The rest of cake-maker is licensed under the GPL 2
+
+Steve Singer
+ssinger_pg@sympatico.ca
+
+

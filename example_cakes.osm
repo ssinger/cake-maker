@@ -1,0 +1,739 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-266' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.65522702243107' lon='-79.37021932245679'>
+    <tag k='name' v='6' />
+  </node>
+  <node id='-264' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.65365784087875' lon='-79.36737020901528'>
+    <tag k='name' v='21' />
+  </node>
+  <node id='-262' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.64887100758589' lon='-79.36618241918555'>
+    <tag k='name' v='22' />
+  </node>
+  <node id='-260' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.64939833952356' lon='-79.37317055430869'>
+    <tag k='name' v='20' />
+  </node>
+  <node id='-258' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.64877120275503' lon='-79.37678581332727'>
+    <tag k='name' v='14' />
+  </node>
+  <node id='-256' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.64718491563463' lon='-79.37353945829018'>
+    <tag k='name' v='18' />
+  </node>
+  <node id='-254' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.64711113483833' lon='-79.37826142925323'>
+    <tag k='name' v='17' />
+  </node>
+  <node id='-252' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.64434435497718' lon='-79.3772653885032'>
+    <tag k='name' v='16' />
+  </node>
+  <node id='-250' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.645192834134605' lon='-79.38091753791994'>
+    <tag k='name' v='15' />
+  </node>
+  <node id='-248' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.6482178467828' lon='-79.3818766882718'>
+    <tag k='name' v='14' />
+  </node>
+  <node id='-246' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.65068950345877' lon='-79.37962637398473'>
+    <tag k='name' v='13' />
+  </node>
+  <node id='-244' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.6515379826162' lon='-79.37641690934579'>
+    <tag k='name' v='12' />
+  </node>
+  <node id='-240' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.65854715826446' lon='-79.37416659505871'>
+    <tag k='name' v='10' />
+  </node>
+  <node id='-238' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.65625995357924' lon='-79.37405592386426'>
+    <tag k='name' v='11' />
+  </node>
+  <node id='-236' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.657145323134806' lon='-79.37147359599385'>
+    <tag k='name' v='7' />
+  </node>
+  <node id='-234' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.65958008941263' lon='-79.37235896554942'>
+    <tag k='name' v='8' />
+  </node>
+  <node id='-232' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.6590267334404' lon='-79.36889126812343'>
+    <tag k='name' v='5' />
+  </node>
+  <node id='-230' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.6618304036997' lon='-79.36125495570663'>
+    <tag k='name' v='4' />
+  </node>
+  <node id='-228' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.65847337746816' lon='-79.36036958615107'>
+    <tag k='name' v='3' />
+  </node>
+  <node id='-226' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.65514532770275' lon='-79.36214879330115'>
+    <tag k='name' v='2' />
+  </node>
+  <node id='-224' action='modify' timestamp='2011-06-07T23:25:04Z' visible='true' lat='43.65212822898657' lon='-79.35889397022511'>
+    <tag k='name' v='1' />
+  </node>
+  <node id='-222' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65728219434639' lon='-79.37334730009715'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-220' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.657028650746376' lon='-79.37457002380874'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-218' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65826536362999' lon='-79.37092383727261'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-216' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.6582530204445' lon='-79.37185327315106'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-214' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65810929549504' lon='-79.37237194002209'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-212' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.66085351146242' lon='-79.3735839302785'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-210' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.66314529654999' lon='-79.3729515136258'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-208' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.66239806028626' lon='-79.37666946966975'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-206' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.660429730615924' lon='-79.37586755758184'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-204' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.660854627380765' lon='-79.37356303720381'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-202' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64334064348675' lon='-79.37533374747349'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-200' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64246583029994' lon='-79.37619033538557'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-198' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.642028423706535' lon='-79.3774296540669'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-196' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64596346564306' lon='-79.37905308607537'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-194' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64434214520349' lon='-79.3783882280534'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-192' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.643525652895796' lon='-79.38178250321823'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-190' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.645205294214485' lon='-79.38238904036109'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-188' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.644972010698' lon='-79.38348547288857'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-186' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64640670432437' lon='-79.38412700255888'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-184' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.649908858115026' lon='-79.38074857134593'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-182' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64923074327199' lon='-79.38399690583788'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-180' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64662452898628' lon='-79.38306741682688'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-178' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.651909858656616' lon='-79.38164584539831'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-176' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64994404618961' lon='-79.37438870582625'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-174' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64858360075648' lon='-79.38014298654723'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-172' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64731708942583' lon='-79.37958638935434'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-170' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.648702210304954' lon='-79.37390010364005'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-168' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.648454669974676' lon='-79.3737127976743'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-166' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65052473777748' lon='-79.3717677464972'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-164' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.649190287582385' lon='-79.37781706789656'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-162' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65240194107419' lon='-79.37920365858511'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-160' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64660792734653' lon='-79.37019601740553'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-158' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64642405096429' lon='-79.37071068056314'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-156' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.6455674630522' lon='-79.3763058399038'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-154' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64691613338188' lon='-79.37694372451918'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-152' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64892091360166' lon='-79.37273368605764'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-150' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.6464240509643' lon='-79.37012747177192'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-148' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64950412239287' lon='-79.37127566407962'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-146' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.64861108393133' lon='-79.36143401572795'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-144' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.6501784575577' lon='-79.35678657067301'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-142' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.654570748766496' lon='-79.35716930144224'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-140' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.653021600414846' lon='-79.35992131792575'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-138' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65194630920605' lon='-79.36121531243126'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-136' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65152712788738' lon='-79.36272801023345'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-134' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65777839711815' lon='-79.35487291682689'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-132' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.66158747953573' lon='-79.35602110913459'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-130' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65933952269154' lon='-79.36595343358842'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-128' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.66117077685443' lon='-79.35809514539835'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-126' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.6637405405907' lon='-79.3591339860577'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-124' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.66190008802444' lon='-79.36699662687218'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-122' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.661207227403885' lon='-79.37220150803573'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-120' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.6623736449863' lon='-79.36718955748627'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-118' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.655383287261664' lon='-79.37389624417018'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-116' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65373486476651' lon='-79.37327679924452'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-114' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65446387575553' lon='-79.36954061792584'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-112' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.6555938427885' lon='-79.36441931572803'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-110' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.6569607383929' lon='-79.36498429924453'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-108' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.6563228537775' lon='-79.368137271772'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-106' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65621350212915' lon='-79.37003270034343'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-104' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65482838125003' lon='-79.37639332122255'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-102' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65592189773354' lon='-79.37147249704672'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-100' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65819676194453' lon='-79.37240790562696'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-98' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.658158399601575' lon='-79.37242653417395'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-96' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65732524388739' lon='-79.37327679924454'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-94' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.65705186476651' lon='-79.37446144210168'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-92' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true' lat='43.656486881250025' lon='-79.37710410693684'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-90' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.651195323982044' lon='-79.38132543897677' />
+  <node id='-88' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65173388680788' lon='-79.37888049356145' />
+  <node id='-84' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.6524612818173' lon='-79.37541985819934' />
+  <node id='-82' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.653055452962484' lon='-79.3729447031817' />
+  <node id='-80' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65601974502053' lon='-79.37674393753078' />
+  <node id='-78' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.6533843178897' lon='-79.36906045794885' />
+  <node id='-76' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.6528050331822' lon='-79.37156856975935' />
+  <node id='-74' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65269860942886' lon='-79.37278780770599' />
+  <node id='-72' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65307188625985' lon='-79.37295069973224' />
+  <node id='-70' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.651996932599786' lon='-79.37769172794461' />
+  <node id='-68' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65267179305704' lon='-79.37802906850054' />
+  <node id='-66' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65067277186346' lon='-79.37717559131413' />
+  <node id='-64' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.64944209988474' lon='-79.37668050966703' />
+  <node id='-62' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.653178083262304' lon='-79.37575253411056' />
+  <node id='-60' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.64988034454669' lon='-79.37436364231957' />
+  <node id='-58' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.654479272003115' lon='-79.36947083815855' />
+  <node id='-56' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65208200492303' lon='-79.36857990605309' />
+  <node id='-54' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65121102168022' lon='-79.36821255257652' />
+  <node id='-52' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65271423928867' lon='-79.36322171782902' />
+  <node id='-50' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65559741475468' lon='-79.35838880960655' />
+  <node id='-48' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65636582046423' lon='-79.35694457718863' />
+  <node id='-46' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65402233312936' lon='-79.35952769405722'>
+    <tag k='name' v='23' />
+  </node>
+  <node id='-44' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65359601860342' lon='-79.37122372954217'>
+    <tag k='name' v='24' />
+  </node>
+  <node id='-42' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65231727115005' lon='-79.3704368080324'>
+    <tag k='name' v='25' />
+  </node>
+  <node id='-40' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65035289945562' lon='-79.36782344341648'>
+    <tag k='landuse' v='cake' />
+  </node>
+  <node id='-38' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.64735635768398' lon='-79.36642155256118' />
+  <node id='-36' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.64843874518273' lon='-79.3690674255054'>
+    <tag k='name' v='26' />
+  </node>
+  <node id='-34' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65303153156789' lon='-79.37452814002636'>
+    <tag k='name' v='27' />
+  </node>
+  <node id='-32' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65217445253381' lon='-79.37399653404319'>
+    <tag k='name' v='28&apos;' />
+  </node>
+  <node id='-30' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65198837440229' lon='-79.3796179593892'>
+    <tag k='name' v='29' />
+  </node>
+  <node id='-28' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.6525433219915' lon='-79.3768426150551'>
+    <tag k='name' v='30' />
+  </node>
+  <node id='-24' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65080746571995' lon='-79.37792752522482'>
+    <tag k='name' v='32' />
+  </node>
+  <node id='-22' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65044505957955' lon='-79.37834310618592' />
+  <node id='-20' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65117122003831' lon='-79.37489191676025' />
+  <node id='-18' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65145439400405' lon='-79.37222253552552' />
+  <node id='-16' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.653367685847925' lon='-79.36349347962766' />
+  <node id='-14' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.649505049433486' lon='-79.37927209943084'>
+    <tag k='name' v='33' />
+  </node>
+  <node id='-12' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.64997582106065' lon='-79.3775934014346'>
+    <tag k='name' v='34' />
+  </node>
+  <node id='-10' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65034613706525' lon='-79.37593438573398'>
+    <tag k='name' v='35' />
+  </node>
+  <node id='-8' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65076326332732' lon='-79.37352576943348'>
+    <tag k='name' v='36' />
+  </node>
+  <node id='-6' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.650844269953325' lon='-79.37015820826667'>
+    <tag k='name' v='37' />
+  </node>
+  <node id='-4' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true' lat='43.65169077111325' lon='-79.36607395092129'>
+    <tag k='name' v='38' />
+  </node>
+  <way id='-377' visible='true'>
+    <nd ref='-162' />
+    <nd ref='-68' />
+    <nd ref='-70' />
+    <nd ref='-88' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='-1' />
+  </way>
+  <way id='-376' visible='true'>
+    <nd ref='-88' />
+    <nd ref='-90' />
+    <nd ref='-178' />
+    <nd ref='-162' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='-1' />
+  </way>
+  <way id='-358' action='modify' timestamp='2011-05-31T22:47:55Z' visible='true'>
+    <nd ref='-206' />
+    <nd ref='-220' />
+    <nd ref='-222' />
+    <nd ref='-98' />
+    <nd ref='-204' />
+    <nd ref='-206' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-356' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-100' />
+    <nd ref='-214' />
+    <nd ref='-216' />
+    <nd ref='-218' />
+    <nd ref='-122' />
+    <nd ref='-212' />
+    <nd ref='-214' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-352' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-52' />
+    <nd ref='-50' />
+    <nd ref='-48' />
+    <nd ref='-134' />
+    <nd ref='-142' />
+    <nd ref='-140' />
+    <nd ref='-138' />
+    <nd ref='-136' />
+    <nd ref='-52' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-350' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-194' />
+    <nd ref='-198' />
+    <nd ref='-200' />
+    <nd ref='-202' />
+    <nd ref='-156' />
+    <nd ref='-154' />
+    <nd ref='-196' />
+    <nd ref='-194' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-348' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-172' />
+    <nd ref='-180' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-346' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-196' />
+    <nd ref='-172' />
+    <nd ref='-180' />
+    <nd ref='-186' />
+    <nd ref='-188' />
+    <nd ref='-190' />
+    <nd ref='-192' />
+    <nd ref='-194' />
+    <nd ref='-196' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-344' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-184' />
+    <nd ref='-174' />
+    <nd ref='-172' />
+    <nd ref='-180' />
+    <nd ref='-182' />
+    <nd ref='-184' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-342' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-22' />
+    <nd ref='-88' />
+    <nd ref='-90' />
+    <nd ref='-184' />
+    <nd ref='-22' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-340' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-170' />
+    <nd ref='-60' />
+    <nd ref='-176' />
+    <nd ref='-166' />
+    <nd ref='-148' />
+    <nd ref='-168' />
+    <nd ref='-170' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-338' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-72' />
+    <nd ref='-116' />
+    <nd ref='-62' />
+    <nd ref='-84' />
+    <nd ref='-82' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='-1' />
+  </way>
+  <way id='-336' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-148' />
+    <nd ref='-152' />
+    <nd ref='-168' />
+    <nd ref='-154' />
+    <nd ref='-156' />
+    <nd ref='-158' />
+    <nd ref='-160' />
+    <nd ref='-148' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-334' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-136' />
+    <nd ref='-138' />
+    <nd ref='-140' />
+    <nd ref='-142' />
+    <nd ref='-144' />
+    <nd ref='-146' />
+    <nd ref='-136' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-332' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-132' />
+    <nd ref='-134' />
+    <nd ref='-112' />
+    <nd ref='-130' />
+    <nd ref='-132' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-330' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-124' />
+    <nd ref='-126' />
+    <nd ref='-128' />
+    <nd ref='-130' />
+    <nd ref='-124' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-328' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-110' />
+    <nd ref='-130' />
+    <nd ref='-124' />
+    <nd ref='-120' />
+    <nd ref='-122' />
+    <nd ref='-218' />
+    <nd ref='-106' />
+    <nd ref='-108' />
+    <nd ref='-110' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-326' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-102' />
+    <nd ref='-106' />
+    <nd ref='-108' />
+    <nd ref='-110' />
+    <nd ref='-112' />
+    <nd ref='-58' />
+    <nd ref='-114' />
+    <nd ref='-116' />
+    <nd ref='-118' />
+    <nd ref='-102' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-324' action='modify' timestamp='2011-05-31T22:47:56Z' visible='true'>
+    <nd ref='-92' />
+    <nd ref='-220' />
+    <nd ref='-94' />
+    <nd ref='-222' />
+    <nd ref='-96' />
+    <nd ref='-98' />
+    <nd ref='-100' />
+    <nd ref='-214' />
+    <nd ref='-102' />
+    <nd ref='-118' />
+    <nd ref='-104' />
+    <nd ref='-92' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-322' action='modify' timestamp='2011-05-31T23:34:04Z' visible='true'>
+    <nd ref='-214' />
+    <nd ref='-216' />
+    <nd ref='-218' />
+    <nd ref='-106' />
+    <nd ref='-102' />
+    <nd ref='-214' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-320' action='modify' timestamp='2011-05-31T23:34:04Z' visible='true'>
+    <nd ref='-196' />
+    <nd ref='-172' />
+    <nd ref='-170' />
+    <nd ref='-168' />
+    <nd ref='-154' />
+    <nd ref='-196' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-316' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-62' />
+    <nd ref='-84' />
+  </way>
+  <way id='-314' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-52' />
+    <nd ref='-50' />
+    <nd ref='-48' />
+    <nd ref='-134' />
+    <nd ref='-112' />
+    <nd ref='-16' />
+    <nd ref='-52' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-312' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-58' />
+    <nd ref='-112' />
+    <nd ref='-16' />
+    <nd ref='-56' />
+    <nd ref='-78' />
+    <nd ref='-58' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='4' />
+  </way>
+  <way id='-310' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-82' />
+    <nd ref='-72' />
+    <nd ref='-116' />
+    <nd ref='-58' />
+    <nd ref='-78' />
+    <nd ref='-76' />
+    <nd ref='-74' />
+    <nd ref='-82' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='4' />
+  </way>
+  <way id='-308' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-56' />
+    <nd ref='-18' />
+    <nd ref='-74' />
+    <nd ref='-76' />
+    <nd ref='-78' />
+    <nd ref='-56' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='4' />
+  </way>
+  <way id='-306' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-54' />
+    <nd ref='-40' />
+  </way>
+  <way id='-304' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-38' />
+    <nd ref='-40' />
+    <nd ref='-136' />
+    <nd ref='-146' />
+    <nd ref='-38' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-302' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-40' />
+    <nd ref='-148' />
+    <nd ref='-160' />
+    <nd ref='-150' />
+    <nd ref='-38' />
+    <nd ref='-40' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-300' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-62' />
+    <nd ref='-68' />
+    <nd ref='-70' />
+    <nd ref='-84' />
+    <nd ref='-62' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='-1' />
+  </way>
+  <way id='-296' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-88' />
+    <nd ref='-22' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='-1' />
+  </way>
+  <way id='-294' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-70' />
+    <nd ref='-68' />
+  </way>
+  <way id='-290' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-60' />
+    <nd ref='-20' />
+    <nd ref='-66' />
+    <nd ref='-64' />
+    <nd ref='-60' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='-1' />
+  </way>
+  <way id='-288' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-18' />
+    <nd ref='-74' />
+    <nd ref='-82' />
+    <nd ref='-72' />
+    <nd ref='-84' />
+    <nd ref='-20' />
+    <nd ref='-18' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='-1' />
+  </way>
+  <way id='-286' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-22' />
+    <nd ref='-184' />
+    <nd ref='-174' />
+    <nd ref='-164' />
+    <nd ref='-22' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-284' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-22' />
+    <nd ref='-164' />
+    <nd ref='-64' />
+    <nd ref='-66' />
+    <nd ref='-22' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='-1' />
+  </way>
+  <way id='-282' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-66' />
+    <nd ref='-64' />
+    <nd ref='-164' />
+    <nd ref='-22' />
+    <nd ref='-66' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-280' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-70' />
+    <nd ref='-66' />
+    <nd ref='-22' />
+    <nd ref='-88' />
+    <nd ref='-70' />
+    <tag k='landuse' v='cake' />
+  </way>
+  <way id='-278' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-20' />
+    <nd ref='-84' />
+    <nd ref='-70' />
+    <nd ref='-66' />
+    <nd ref='-20' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='-1' />
+  </way>
+  <way id='-276' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-18' />
+    <nd ref='-20' />
+    <nd ref='-176' />
+    <nd ref='-166' />
+    <nd ref='-18' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='-1' />
+  </way>
+  <way id='-274' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-18' />
+    <nd ref='-56' />
+    <nd ref='-54' />
+    <nd ref='-40' />
+    <nd ref='-148' />
+    <nd ref='-18' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='4' />
+  </way>
+  <way id='-272' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-16' />
+    <nd ref='-52' />
+    <nd ref='-136' />
+    <nd ref='-40' />
+    <nd ref='-54' />
+    <nd ref='-56' />
+    <nd ref='-16' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='4' />
+  </way>
+  <way id='-270' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-56' />
+    <nd ref='-78' />
+    <nd ref='-56' />
+    <tag k='landuse' v='cake' />
+    <tag k='layer' v='4' />
+  </way>
+  <way id='-268' action='modify' timestamp='2011-06-08T00:24:09Z' visible='true'>
+    <nd ref='-174' />
+    <nd ref='-172' />
+    <nd ref='-170' />
+    <nd ref='-176' />
+    <nd ref='-64' />
+    <nd ref='-164' />
+    <nd ref='-174' />
+    <tag k='landuse' v='cake' />
+  </way>
+</osm>
